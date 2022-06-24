@@ -1,18 +1,17 @@
-package me.dio.soccernews.ui.news;
+package me.dio.racenews.ui.news;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import me.dio.soccernews.databinding.FragmentNewsBinding;
-import me.dio.soccernews.ui.adapters.NewsAdapter;
+import me.dio.racenews.databinding.FragmentNewsBinding;
+import me.dio.racenews.ui.adapters.NewsAdapter;
 
 public class NewsFragment extends Fragment {
 

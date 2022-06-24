@@ -1,4 +1,4 @@
-package me.dio.soccernews.ui.favorites;
+package me.dio.racenews.ui.favorites;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
